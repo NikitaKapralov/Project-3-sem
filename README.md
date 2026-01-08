@@ -29,5 +29,5 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/ваш-логин/expense-forecaster.git
+   git clone https://github.com/NikitaKapralov/Project-3-sem
    cd expense-forecaster
